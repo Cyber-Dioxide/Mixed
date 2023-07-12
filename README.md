@@ -2,11 +2,11 @@
 Crack Smtp, Crack email accounts. This tool is not made for Gmail and Yahoo based accounts. Rest you can use it to crack webmails of sites. If you want to buy the cracked webmails contact me on telegram @coding_memz. You can send Buk emails with it without attachments.
 
 * A free email list of 10k Users will be given
-
+![Screenshot 2023-07-12 093952](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/f5831a66-b64b-455f-9676-abc45ef465c0)
 
 # Bulk-Mailer
 Send infinite amount of emails. A perfect solution for making customers. This tool is used by lead generators to send bulk emails without even getting banned. If you want to make new customer, reach your message to new customer. This is for you.
-![Screenshot 2023-07-12 093952](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/f5831a66-b64b-455f-9676-abc45ef465c0)
+
 
 * For more information Dm me on instagram @coding_memz.
 * Telegram https://t.me/coding_memz
