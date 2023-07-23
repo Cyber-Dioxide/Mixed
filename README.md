@@ -1,4 +1,12 @@
-Link Hawk | Email Scrapper | Leads Scrapper
+# Dragon Mailer
+Read Blog https://medium.com/p/407d1658888e
+* Dragon Maielr is the only best solution for marketing, spamming and reaching out to your customers.
+![Screenshot 2023-07-22 130836](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/cb49895a-700a-4c1b-af6a-d5d61ad3b618)
+![Screenshot 2023-07-22 125550](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/ca42ec78-d009-479a-a07c-26ded15c67af)
+![Screenshot 2023-07-22 132408](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/4e47fac8-52f9-4f78-846c-54c7ede84069)
+
+
+# Link Hawk | Email Scrapper | Leads Scrapper
 A software for scrapping emails from the entire website. Link Hawk crawls over the entire site and grabs emails from the given domain and its subdomains too.
 Link Crawler Uses Tor and Random User Agents to not get detected under radars of security. 
 <br>
