@@ -1,3 +1,7 @@
+# Number Generator.
+Get a software that can generate numbers of a specifi mentioned country, you will specify the country and i'll update the tool for that country.
+![Screenshot 2023-07-29 103934](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/4b026902-28ce-4c8c-9883-df99ab6b83f4)
+
 # Dragon Mailer
 Read Blog https://medium.com/p/407d1658888e
 * Dragon Maielr is the only best solution for marketing, spamming and reaching out to your customers.
