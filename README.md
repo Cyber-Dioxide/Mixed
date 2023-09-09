@@ -1,3 +1,8 @@
+# SMTP - SMS
+SMTP SMS uses SMTP to send sms, the recipients should be in the format "number@carrier-smtp.com" , This tool works on all carriers as long as you have correct recipients list. With Lifetime license.
+* Telegram @coding_memz
+* Instagram @coding_memz
+
 # Number Generator.
 Get a software that can generate numbers of a specifi mentioned country, you will specify the country and i'll update the tool for that country.
 ![Screenshot 2023-07-29 103934](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/4b026902-28ce-4c8c-9883-df99ab6b83f4)
@@ -27,15 +32,6 @@ Crack Smtp, Crack email accounts. This tool is not made for Gmail and Yahoo base
 ![Screenshot 2023-07-12 094843](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/fc92554d-c0b7-423c-95cf-cdfb6461a219)
 
 ![Screenshot 2023-07-12 094955](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/6f947f3c-ea8b-4a04-835e-fbc8637d4598)
-# Bulk-Mailer
-
-Send infinite amount of emails. A perfect solution for making customers. This tool is used by lead generators to send bulk emails without even getting banned. If you want to make new customer, reach your message to new customer. This is for you.
-
-
-* For more information Dm me on instagram @coding_memz.
-* Telegram https://t.me/coding_memz
-
-![Screenshot 2023-06-10 195554](https://github.com/Cyber-Dioxide/Bulk-Mailer/assets/93708296/fdf2406a-f85f-4111-8283-03fd61d65f9c)
 
 # TeleAmplify
 A tool to add members in telegram channel and groups, sell telegram accounts by adding members.
