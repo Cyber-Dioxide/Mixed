@@ -1,3 +1,15 @@
+# Telegram Group Member Scrapper And Adder
+Telegram group members scrapper and adder, for adding in channel the user must have his channel on his account.
+Efficient Leads Generator
+
+* Telegram @coding_memz
+* Instagram @coding_memz
+
+
+![image](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/652abf4c-3557-4c4f-bcbe-2068de510b72)
+
+
+
 # SMTP - SMS
 SMTP SMS uses SMTP to send sms, the recipients should be in the format "number@carrier-smtp.com" , This tool works on all carriers as long as you have correct recipients list. With Lifetime license.
 * Telegram @coding_memz
