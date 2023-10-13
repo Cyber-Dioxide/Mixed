@@ -1,3 +1,25 @@
+# Dragon-Go
+🚀 Supercharge Your Email Spamming with Go-Dragon 📧
+<br>
+🔥 Looking for a reliable email spamming solution? Our email sender is designed to make your email campaigns a breeze. 💌
+<br>
+✅ Fast Delivery: Reach your targets in no time.<br>
+✅ Robust & Reliable: No more email sending issues.<br>
+✅ Easy-to-Use: User-friendly interface for everyone.<br>
+✅ Personalization: Customize emails with ease.
+<br>
+💥 Say goodbye to email spamming headaches and hello to results. Try it now! 💥<br>
+
+📆 Limited Time Offer: Get 20% OFF on your first month!<br>
+![Screenshot 2023-10-13 070751](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/a9dea701-854a-448b-a9bb-cad49c13d9a1)
+
+Get started today ➡️ <br>
+
+
+Don't miss out! Your email marketing success awaits. 💪📈<br>
+* Telegram @coding_memz
+* Instagram @coding_memz
+
 # Telegram Group Member Scrapper And Adder
 Telegram group members scrapper and adder, for adding in channel the user must have his channel on his account.
 Efficient Leads Generator
