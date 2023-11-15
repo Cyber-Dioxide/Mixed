@@ -1,3 +1,6 @@
+# Webiste
+https://cyberdioxide.com
+
 # Dragon-Go
 🚀 Supercharge Your Email Spamming with Go-Dragon 📧
 <br>
@@ -43,7 +46,7 @@ Get a software that can generate numbers of a specifi mentioned country, you wil
 ![Screenshot 2023-07-29 103934](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/4b026902-28ce-4c8c-9883-df99ab6b83f4)
 
 # Dragon Mailer
-Read Blog https://medium.com/p/407d1658888e
+Read Blog [Cyber Dixodie](https://www.cyberdioxide.com/2023/11/how-to-send-bulk-emails-marketing.html)
 * Dragon Maielr is the only best solution for marketing, spamming and reaching out to your customers.
 ![Screenshot 2023-07-22 130836](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/cb49895a-700a-4c1b-af6a-d5d61ad3b618)
 ![Screenshot 2023-07-22 125550](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/ca42ec78-d009-479a-a07c-26ded15c67af)
