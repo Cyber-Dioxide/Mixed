@@ -1,5 +1,17 @@
+# Telegram Changed
+We have changed the telegram username from @coding_memz to @cyberoxide. For pending orders message @cyberoxide or @cyberdioxide
 # Webiste
 https://cybshop.pythonanywhere.com
+# Blog
+https://cyberdioxide.com
+# Top Selling: Dragon Mailer (Node Version) V6.0
+![photo_2024-06-23_12-11-35](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/879b8998-e5c4-47f9-95f4-e907d0ea70f9)
+<br>
+✅ Fast Delivery: Reach your targets in no time.<br>
+✅ Multiple Letter Support. Letter Rotation.<br>
+✅ More Inbox rate and easily Compatible with large support of smtps<br>
+✅ Personalization: Customize emails with ease.
+<br>
 # SMTP SMASHER
 ![image](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/5a7f76d4-8e32-47fc-86cb-fcdbb77cf768)
 
@@ -51,7 +63,7 @@ Don't miss out! Your email marketing success awaits. 💪📈<br>
 Telegram group members scrapper and adder, for adding in channel the user must have his channel on his account.
 Efficient Leads Generator
 
-* Telegram @coding_memz
+* Telegram @cyberdioxide
 * Instagram @coding_memz
 
 
@@ -72,9 +84,13 @@ Get a software that can generate numbers of a specifi mentioned country, you wil
 # Dragon Mailer
 Read Blog [Cyber Dixodie](https://www.cyberdioxide.com/2023/11/how-to-send-bulk-emails-marketing.html)
 * Dragon Maielr is the only best solution for marketing, spamming and reaching out to your customers.
-![Screenshot 2023-07-22 130836](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/cb49895a-700a-4c1b-af6a-d5d61ad3b618)
-![Screenshot 2023-07-22 125550](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/ca42ec78-d009-479a-a07c-26ded15c67af)
-![Screenshot 2023-07-22 132408](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/4e47fac8-52f9-4f78-846c-54c7ede84069)
+![photo_2024-06-29_20-35-27](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/c3246209-109a-4116-82aa-abb51ebf87d7)
+<br>
+✅ Fast Delivery: Reach your targets in no time.<br>
+✅ Robust & Reliable: No more email sending issues.<br>
+✅ Supports SMTP rotation.<br>
+✅ Different Tags support.
+<br>
 
 
 # Link Hawk | Email Scrapper | Leads Scrapper
