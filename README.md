@@ -1,10 +1,10 @@
 # Telegram Changed
-We have changed the telegram username from @coding_memz to @cyberoxide. For pending orders message @cyberoxide or @cyberdioxide
+We have changed the telegram username from @coding_memz to [Telegram](https://www.cyberdioxide.com/p/contact.html). For pending orders message @cyberoxide or @cyberdioxide
 # Webiste
 https://cybshop.pythonanywhere.com
 # Blog
 https://cyberdioxide.com
-#Telegram | Contact
+# Telegram | Contact
 [Telegram](https://www.cyberdioxide.com/p/contact.html)
 # Top Selling: Dragon Mailer (Node Version) V6.0
 ![photo_2024-06-23_12-11-35](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/879b8998-e5c4-47f9-95f4-e907d0ea70f9)
