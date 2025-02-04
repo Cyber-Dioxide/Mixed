@@ -1,9 +1,9 @@
 # Telegram Changed
-We have changed the telegram username from @coding_memz to [Telegram](https://www.cyberdioxide.com/p/contact.html). For pending orders message @cyberoxide or @cyberdioxide
+We have changed the telegram username from @cyberoxide to [Telegram](https://www.cyberdioxide.com/p/contact.html). For pending orders message @cyberoxide or @cyberdioxide
 # Webiste
 https://cybshop.pythonanywhere.com
 # Blog
-https://cyberdioxide.com
+https://cyox2.com
 # Telegram | Contact
 [Telegram](https://www.cyberdioxide.com/p/contact.html)
 # Top Selling: Dragon Mailer (Node Version) V6.0
@@ -58,14 +58,14 @@ Get started today ➡️ <br>
 
 
 Don't miss out! Your email marketing success awaits. 💪📈<br>
-* Telegram @coding_memz
+* Telegram @cyberoxide
 * Instagram @coding_memz
 
 # Telegram Group Member Scrapper And Adder
 Telegram group members scrapper and adder, for adding in channel the user must have his channel on his account.
 Efficient Leads Generator
 
-* Telegram @cyberdioxide
+* Telegram @cyberoxide
 * Instagram @coding_memz
 
 
@@ -75,7 +75,7 @@ Efficient Leads Generator
 
 # SMTP - SMS
 SMTP SMS uses SMTP to send sms, the recipients should be in the format "number@carrier-smtp.com" , This tool works on all carriers as long as you have correct recipients list. With Lifetime license.
-* Telegram @coding_memz
+* Telegram @cyberoxide
 * Instagram @coding_memz
 ![Screenshot 2023-09-08 211501](https://github.com/Cyber-Dioxide/Mixed/assets/93708296/9367dcd0-0701-4394-8d1c-e1c163756bf2)
 
